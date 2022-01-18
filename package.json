@@ -1,9 +1,9 @@
 {
   "name": "mern-classroom",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "A MERN stack based online classroom application",
-  "author": "Shama Hoque",
-  "license": "MIT",
+  "author": "Hien Hua",
+  "license": "",
   "keywords": [
     "react",
     "express",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamahoque/mern-classroom.git"
+    "url": "https://github.com/hienhh97/mern-Class.git"
   },
-  "homepage": "https://github.com/shamahoque/mern-classroom",
+  "homepage": "",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
