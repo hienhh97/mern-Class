@@ -25,7 +25,7 @@ const Menu = withRouter(({history}) => (
   <AppBar position="fixed" style={{zIndex:12343455}}>
     <Toolbar>
       <Typography variant="h6" color="inherit">
-        MERN Classroom
+        Free Courses
       </Typography>
       <div>
         <Link to="/">
